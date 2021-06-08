@@ -12,5 +12,3 @@ Here are some ideas to get you started:
 - 👨‍🎓  I'm studying programming, I love Open Source content, due to the freedom.
  
 --> Thanks for @OsProgramadores.
-
-                  ![images](https://user-images.githubusercontent.com/44953964/121119030-4692be80-c7f1-11eb-8515-fc197104af12.png)
